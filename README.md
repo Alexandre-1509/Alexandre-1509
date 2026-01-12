@@ -23,5 +23,3 @@ Também estou aprendendo:
   </ul>
 <br>
 <br>
-
-![Alexandre Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandre-1509&show_icons=true&theme=dark)
