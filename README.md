@@ -18,6 +18,9 @@ Também estou aprendendo:
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
     </li>
     <li>
+      <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="sequelize-logo" />
+    </li>
+    <li>
       <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
     </li>
   </ul>
