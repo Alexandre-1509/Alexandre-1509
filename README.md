@@ -104,7 +104,7 @@ Aqui estão alguns dos projetos que mais me orgulho (clique no nome para acessar
 
 📫 Me encontre em:
 
-- **LinkedIn**: [linkedin.com/in/alexandresoares-dev
+- **LinkedIn**: https://www.linkedin.com/in/alexandresoares-dev
 - **Email**: soaresallexandre28@gmail.com
 <!--- **Portfólio** (se tiver): [seuportifolio.com](https://seuportifolio.com) -->
 
